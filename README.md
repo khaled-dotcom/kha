@@ -7,8 +7,11 @@
 - **mohamed hassan** —  embeded sysytems 
 - **mazen** — cyber security, database ,backend Dev
 - - **naden** — cyber security
+# EmpowerWork Project
 
-![Freepik Image](freepik_br_2332aa31-4d8a-4f88-ba47-aa70c04f044e.png)
+This is a preview of the design:
+
+![Design Preview](https://github.com/khaled-dotcom/kha/blob/main/freepik_br_2332aa31-4d8a-4f88-ba47-aa70c04f044e.png?raw=true)
 
 
 ![Design Preview](https://github.com/AHMAD-JX/DesignEnd-Website-Template/blob/53fe66c2a5bd3f46bff8ab538515dff81a4600cc/img/1.gif)
